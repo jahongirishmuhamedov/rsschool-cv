@@ -1,0 +1,18 @@
+.about-me p {
+    line-height: 30px;
+}
+
+.contacts li {
+    list-style: none;
+    line-height: 25px;
+}
+
+.skills li {
+    list-style: none;
+    line-height: 25px;
+}
+
+.languages li {
+    line-height: 25px;
+    list-style: none;
+}
