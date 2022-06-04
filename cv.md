@@ -38,7 +38,7 @@ Cambridge International University (Information Technology 2021-2025)
     <li>HTML</li>
     <li>CSS</li>
     <li>BOOTSTRAP</li>
-    <li>GIT & GITHUB</li>
+    <li>GIT &amp; GITHUB</li>
     <li>JAVASCRIPT (BASIC)</li>
 </ul>
 
