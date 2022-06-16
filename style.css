@@ -16,6 +16,10 @@ h2 {
     color: #150101;
 }
 
+h2:hover {
+    text-decoration: underline;
+}
+
 .line {
     height: 2px;
     background: grey;
@@ -71,6 +75,12 @@ h2 {
 .name .position {
     color: #8E8E8E;
     margin-top: 1rem;
+    margin-left: 130px;
+}
+
+.full-name {
+    display: inline-block;
+    text-align: center;
 }
 
 .about-me {
